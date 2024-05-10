@@ -1,6 +1,10 @@
 ﻿#EXTM3U8
 #EXTINF:-1,(劇)追風者21
 https://m3u.haiwaikan.com/xm3u8/b762c797ce192201f70ccbfccc6e264376e2934d402209810027b8f0809cae2e9921f11e97d0da21.m3u8
+#EXTINF:-1,(劇)追風者21-2
+https://v.cdnlz2.com/20240330/29200_4c864b00/2000k/hls/mixed.m3u8
+#EXTINF:-1,(劇)追風者21-3
+https://hd.jisubf.com:65535/play/mbknE8Ya/index.m3u8
 #EXTINF:-1,(劇)追風者22
 https://m3u.haiwaikan.com/xm3u8/f63b6bd165953731fac6f31430dc764ca8fa9af326a7bbbc6d9ef530498166eb9921f11e97d0da21.m3u8
 #EXTINF:-1,(劇)追風者23
@@ -19,8 +23,6 @@ https://m3u.haiwaikan.com/xm3u8/e6d2d7fc7445d521a6767486ea327b19a7f3069a939124e4
 https://m3u.haiwaikan.com/xm3u8/21185a5eb2be4ee8bce798c8fc78376bdf9b6e5746774aa07dcdd947809cffc39921f11e97d0da21.m3u8
 #EXTINF:-1,(劇)追風者30
 https://m3u.haiwaikan.com/xm3u8/aa51f52a18bd1a3dfb754b146c5b54df2031398d8eb1740894cb814792e296519921f11e97d0da21.m3u8
-#EXTINF:-1,(劇)追風者31
-https://v.cdnlz2.com/20240404/29414_204d69ee/2000k/hls/mixed.m3u8
 #EXTINF:-1,(劇)商魂01
 https://v10.ppsoss.com/202402/18/AnSDAL9kiU3/video/2000k_0X1080_64k_25/hls/index.m3u8
 #EXTINF:-1,(劇)商魂02
